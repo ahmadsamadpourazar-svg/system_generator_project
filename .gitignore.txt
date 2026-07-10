@@ -1,0 +1,39 @@
+# MATLAB / Simulink generated files
+slprj/
+*.autosave
+*.asv
+*.m~
+*.slxc
+*.mex*
+*.p
+*.fig
+*.mat.bak
+
+# System Generator generated files
+*_sim/
+*_hwcosim/
+*_netlist/
+*_cw/
+sysgen/
+hdl_netlist/
+
+# Vivado / Xilinx generated files
+.Xil/
+.cache/
+*.jou
+*.log
+*.str
+*.wdb
+*.wcfg
+*.bit
+*.bin
+*.mcs
+*.ltx
+*.dcp
+*.rpt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
